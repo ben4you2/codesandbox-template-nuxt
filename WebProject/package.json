@@ -1,0 +1,27 @@
+{
+  
+  "name": "my-app",
+  
+  "scripts": {
+  
+    
+  "dev": "next",
+  
+    
+  "build": "nuxt build",
+  
+    
+  "generate": "nuxt generate",
+  
+    
+  "start": " nuxt start"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "nuxt": "^3.11.2"
+  
+  }
+}
